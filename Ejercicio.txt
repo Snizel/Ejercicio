@@ -1,1 +1,1 @@
-Este es un ejercicio sobre git en el cual se ha creado una rama y se modificó este archivo
+Este es un ejercicio sobre git en el cual se ha creado una rama y se modificó este archivo.
